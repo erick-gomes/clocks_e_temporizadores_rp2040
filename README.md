@@ -54,4 +54,4 @@ A lógica do temporizador de um disparo está implementada na função `btn_acti
 
 ---
 
-Este projeto foi desenvolvido como parte do **EmbarcaTech**, uma iniciativa do **CEPEDI** (Centro de Pesquisa, Desenvolvimento e Inovação) que oferece capacitação em tecnologia embarcada por meio de uma plataforma Moodle. O objetivo é consolidar conceitos de temporizadores, interrupções e controle de GPIOs, aplicando-os em um semáforo automático e um sistema de temporização por botão.
+Este projeto foi desenvolvido como parte de uma atividade do **EmbarcaTech**, uma iniciativa do **CEPEDI** (Centro de Pesquisa, Desenvolvimento e Inovação) que oferece capacitação em sistemas embarcados. O objetivo é consolidar conceitos de temporizadores, interrupções e controle de GPIOs.
