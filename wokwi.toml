@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/clocks_e_temporizadores_rp2040.uf2'
+elf = 'build/clocks_e_temporizadores_rp2040.elf'
